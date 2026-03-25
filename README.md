@@ -12,9 +12,7 @@ Tired of waking up to 30 emails? This tool fetches your Gmail inbox every mornin
 - Emails you back a daily briefing that looks like this:
 
 ```
-The day's inbox theme is primarily focused on job application confirmations
-from Jobstreet, with 9 out of 14 emails related to successful job submissions.
-Additionally, there are security notifications from Google and Netflix
+The day's inbox theme is primarily focused on notifications from Google and Netflix
 regarding account activity.
 
 • thianz19@gmail.com — no subject or content provided [ACTION NEEDED]
